@@ -1,3 +1,6 @@
-
 Conflict from Developer1
 Conflict from Developer2
+
+Hello from Developer1
+Change from Developer2
+
